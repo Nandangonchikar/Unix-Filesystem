@@ -1,11 +1,15 @@
 # Unix-Filesystem
 
 
-Operating System Project 2 Part 1
-CS 5348
+Operating System(CS 5348) Project 2 Part 1
+
 
  Group 4
-Team members: 
-Chih-An Chang 
-Nandan Gonchikar Shankarappa
-Sayantan Kundu
+
+Chih-An Chang  - CXC210017
+Nandan Gonchikar Shankarappa - NXG200043
+Sayantan Kundu - SXK210048
+
+
+The project has following files:
+
