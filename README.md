@@ -27,6 +27,14 @@ The project can be compiled and executed as mentioned below:
 
 2. Run the code. ./a.out
 
+3. It will ask for a command.The valid commands are open, initfs, quit and print.
+
+4. If a command other than the above is entered, it will throw as invalid command.
+
+
+open:
+
+
 
 
 
